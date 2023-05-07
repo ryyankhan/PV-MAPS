@@ -14,8 +14,10 @@ For an example of how to use the simulator, open the 'run_singleLocation.mlx' in
 
 For theory underlying the code is discussed in **“Principles of Solar Cells: Connecting Perspectives on Device, System, Reliability, and Data Science” by Professor Alam and Khan  (https://doi.org/10.1142/12139).** 
 
+Farm model tutorials: https://youtube.com/playlist?list=PLYqQDBa2rTyzx6M3JiKyOcaOcPq7y3Oaq
+
 Also see: 
  - Khan, M. R., Hanna, A., Sun, X., & Alam, M. A. (2017). Vertical bifacial solar farms: Physics, design, and global optimization. Applied energy, 206, 240-248. Patel, M. T.
  -  Khan, M. R., Sun, X., & Alam, M. A. (2019). A worldwide cost-based design and optimization of tilted bifacial solar farms. Applied Energy, 247, 467-479. 
 
-If you have any questions, please email to jabir@purdue.edu. If you you would like to report an issue, please also attach a screenshot of the MATLAB's Command Window when the issue occured. 
+If you have any questions, please email to jabir@purdue.edu or alam@purdue.edu or ryyan@ewubd.edu. If you you would like to report an issue, please also attach a screenshot of the MATLAB's Command Window when the issue occured. 
